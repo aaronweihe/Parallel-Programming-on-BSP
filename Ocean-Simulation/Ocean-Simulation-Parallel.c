@@ -1,5 +1,5 @@
 //
-//  Ocean-Programming.c
+//  Ocean-Simulation-Parallel.c
 //  Ocean-Programming
 //
 //  Created by Wei He on 3/21/12.
