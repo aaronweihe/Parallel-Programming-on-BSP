@@ -1,5 +1,5 @@
 //
-//  main.c
+//  Ocean-Simlutaion-Sequential.c
 //  Ocean-Prgramming
 //
 //  Created by Wei He on 3/20/12.
